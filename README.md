@@ -30,7 +30,7 @@ THEN I find a concise, descriptive title
 - [License](#license)
 
 ## Installation
-You can see the website deployed with this link
+You can see the website deployed with this link https://jairopjm.github.io/code_1/
 ## Usage 💡
 
 
