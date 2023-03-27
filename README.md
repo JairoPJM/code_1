@@ -1,7 +1,7 @@
 <p>
-    <img src="https://img.shields.io/github/repo-size/jairoPJM//code_1" />
-    <img src="https://img.shields.io/github/languages/top/jairoPJM//code_1"  />
-    <img src="https://img.shields.io/github/last-commit/jairoPJM//code_1" />
+    <img src="https://img.shields.io/github/repo-size/jairoPJM/code_1" />
+    <img src="https://img.shields.io/github/languages/top/jairoPJM/code_1"  />
+    <img src="https://img.shields.io/github/last-commit/jairoPJM/code_1" />
 </p>
     
  <h1 align="center">code_1</h1>
